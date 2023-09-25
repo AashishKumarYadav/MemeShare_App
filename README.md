@@ -1,1 +1,2 @@
 # MemeShare_App
+I developed an engaging Meme Android Application using Kotlin, incorporating the Volley library for efficient data handling and the Glide library to fetch and display meme images. The app offers a user-friendly interface with 'Next' and 'Share' buttons, allowing users to generate and easily share humorous memes on social media using implicit intents. With an image view and adapter, the app provides an organized and visually appealing meme browsing experience.
